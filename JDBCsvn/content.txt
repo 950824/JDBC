@@ -1,0 +1,9 @@
+ flutter run --enable-software-rendering
+
+copy /b  C:\Users\Administrator\Desktop\11\427f9585a1445809b4e483fba2bba3a3\ C:\Users\Administrator\Desktop\11\427f9585a1445809b4e483fba2bba3a3\new.ts
+
+
+
+response.setDateHeader("Expires",-1);
+response.setHeader("Cache-Control","no-cache");
+response.setHeader("Pragma","no-cache");
